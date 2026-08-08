@@ -1,0 +1,22 @@
+
+# This is a sample pre-commit configuration file. 
+# Multiple comments on macOs , command +k +c
+# remove comments on macOs , command +k +u
+# repos:
+#   - repo: https://github.com/pre-commit/pre-commit-hooks
+#     rev: v2.3.0
+#     hooks:
+#       - id: check-yaml
+#       - id: end-of-file-fixer
+#       - id: trailing-whitespace
+
+#   - repo: https://github.com/psf/black
+#     rev: 22.10.0
+#     hooks:
+#       - id: black
+
+#   - repo: https://github.com/gitleaks/gitleaks
+#     rev: v8.24.2
+#     hooks:
+#       - id: gitleaks
+
